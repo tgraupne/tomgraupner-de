@@ -1,0 +1,77 @@
+/* SIL Open Font License 1.1, not using google fonts api for GDPR concerns */
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("fonts/IBMPlexSans-Light.woff") format("woff");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  src: url("fonts/IBMPlexSans-SemiBold.woff") format("woff");
+  font-weight: bold;
+}
+
+body {
+  font-family: 'IBM Plex Sans', sans-serif;
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+h2 {
+  font-weight: normal;
+}
+
+a {
+  color: #565656;
+}
+
+header h1 {
+  margin-bottom: 0;
+}
+
+header h2 {
+  margin-top: 0;
+}
+
+header {
+  margin-top: 2rem;
+  margin-bottom: 4rem;
+}
+
+main {
+  margin-bottom: 4rem;
+}
+
+main h2 {
+  margin-top: 4rem;
+  font-weight: bold;
+}
+
+footer {
+  font-size: 0.8rem;
+  margin-bottom: 1rem;
+}
+
+.social-media-ref img {
+  max-height: 16px;
+}
+
+img.imprint-contact {
+  max-height: 20px;
+  margin-bottom: -4px;
+}
+
+footer img {
+  max-height: 16px;
+  margin-bottom: -4px;
+}
+
+.name {
+  font-weight: bold;
+  margin-right: 0.3rem;
+}
+
+.mission {
+  font-size: 1.2rem
+}
