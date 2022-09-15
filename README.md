@@ -1,1 +1,1 @@
-This repository contains the my private website [tomgraupner.de](tomgraupner.de).
+This repository contains my private website [tomgraupner.de](tomgraupner.de).
